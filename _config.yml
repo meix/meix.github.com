@@ -18,7 +18,7 @@ redcarpet:
         - autolink
 
 blog:
-    name: meixiang Blog # 博客名称
+    name: meixiang's  Blog # 博客名称
     description: 分享是一种快乐 # 博客描述
     title: MeiXiang的博客 # 网页标题
     url: meix.github.io # 博客地址
