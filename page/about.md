@@ -25,4 +25,4 @@ date: 2014-10-18
 
 * 第七次，它侧身于生活的污泥中，虽不甘心，却又畏首畏尾。
 ******
-![daodaoliang](/res/img/blog/daodaoliang.jpg)
+![meixiang](/res/img/blog/melife.jpg)
