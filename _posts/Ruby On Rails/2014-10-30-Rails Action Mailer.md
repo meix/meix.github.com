@@ -21,7 +21,7 @@ Rails通过ActionMail组件来为rails程序提供邮件发送功能。例如：
  ```
 <!-- more -->
 
-* 然后文件 app/mailers/user_mailer.rb 中添加 :
+* 然后打开文件 app/mailers/user_mailer.rb 中添加 :
 
  ```sh
         class UserMailer < ActionMailer::Base
@@ -102,6 +102,6 @@ Rails通过ActionMail组件来为rails程序提供邮件发送功能。例如：
 ![发送邮件成功](/res/img/blog/email.png)
 ******
 
-******
+
 
 

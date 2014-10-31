@@ -1,6 +1,6 @@
 ---
 layout: life
-title: 关于刀刀亮
+title: 关于MySelf
 duoshuo: true
 date: 2014-10-18
 ---
