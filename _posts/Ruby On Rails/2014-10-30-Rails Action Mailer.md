@@ -19,6 +19,7 @@ Rails通过ActionMail组件来为rails程序提供邮件发送功能。例如：
  ```sh
         $ rails generate mailer UserMailer
  ```
+<!-- more -->
 
 * 然后文件 app/mailers/user_mailer.rb 中添加 :
 
