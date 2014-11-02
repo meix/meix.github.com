@@ -1,7 +1,7 @@
 ---
 layout : life
 title : Public and Private Method in Ruby
-category : Basic of  knowledge
+category : Basic of knowledge
 duoshuo: true
 date : 2014-04-11
 ---
