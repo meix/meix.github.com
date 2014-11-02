@@ -1,6 +1,6 @@
 ---
 layout : life
-title : Exception Notification 
+title : Exception Notification
 category : Ruby On Rails
 duoshuo: true
 date : 2014-10-31
