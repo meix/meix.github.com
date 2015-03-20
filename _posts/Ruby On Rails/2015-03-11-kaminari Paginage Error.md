@@ -3,7 +3,7 @@ layout : life
 title : kaminari Paginage
 category : Ruby On Rails
 duoshuo: true
-date : 2015-10-11
+date : 2015-03-11
 ---
 
 ##简介

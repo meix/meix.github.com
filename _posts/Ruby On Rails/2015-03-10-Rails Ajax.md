@@ -1,5 +1,5 @@
 ---
-layout : life
+layout : blog
 title : Rails 使用 Ajax
 category : Ruby On Rails
 duoshuo: true
@@ -43,6 +43,9 @@ Ajax是Rails开发项目时候十分常用的方法。
 
 * 解决方案:
 **[原文链接:jQuery AJAX Form Submit Example][1]**
+
+
+
 
 * **修改上述Ajax内容:**
 
