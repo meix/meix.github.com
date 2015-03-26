@@ -1,5 +1,5 @@
 ---
-layout : blog
+layout : life
 title : Rails 使用 Ajax
 category : Ruby On Rails
 duoshuo: true
