@@ -37,11 +37,35 @@ date : 2015-03-25
     db.close if db
   end
 ```
+
+<!-- more -->
+
 > **运行结果**
 >![图片](/res/img/blog/mysql_user.png)
 
 ---------------------------------------
 ---------------------------------------
+
+> ## **MySQL 处理重复数据**:
+>
+> **[详细讲解链接:][2]**
+>为了防止表中出现重复数据,可以在MySQL数据表中设置指定的字段为 PRIMARY KEY(主键)或者 UNIQUE(唯一)索引来保证数据的唯一性。
+>
+```sh
+  CREATE TABLE person_tbl
+  (
+    id INT(10) NOT NULL,
+    star_ip CHAR(20) NOT NULL,
+    end_ip CHAR(20) NOT NULL,
+    country CHAR(10) NOT NULL,
+    area CHAR(10) NOT NULL,
+    UNIQUE (star_ip, end_ip)
+  );
+```
+---------------------------------------
+---------------------------------------
+
+
 > ##  **把IP转换为长整形**:
 >
 >使用**"8.8.8.9  8.8.8.255  美国 加利福尼亚州圣克拉拉县山景市谷歌公司"**进行测试
@@ -88,6 +112,7 @@ date : 2015-03-25
 
 ---------------------------------------
 ---------------------------------------
+
 > ## **完整代码**:
 >
 > **(取其中的61条记录打印结果)**
@@ -158,7 +183,6 @@ ip.open_file
 > **执行之后数据库**
 ![图片](/res/img/blog/new_ip_adress.png)
 
-<!-- more -->
-
 
 [1]:http://www.cz88.net/
+[2]:http://outofmemory.cn/mysql/tutorial/mysql-handling-duplicates.html
