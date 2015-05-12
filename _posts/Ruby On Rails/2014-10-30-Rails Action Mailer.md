@@ -1,5 +1,5 @@
 ---
-layout : post
+layout : life
 title : Action Mailer
 category : Ruby On Rails
 duoshuo: true
