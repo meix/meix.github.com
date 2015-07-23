@@ -1,7 +1,7 @@
 ---
 layout : life
 title : Sorting Algorithm For Ruby
-category : Ruby On Rails
+category : Basic of knowledge
 duoshuo: true
 date : 2014-06-12
 ---
